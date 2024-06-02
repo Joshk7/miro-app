@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://sound-marmot-86.clerk.accounts.dev",
+      domain: "https://stirring-alien-89.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
