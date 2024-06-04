@@ -21,5 +21,5 @@ export const config = {
 // export default clerkMiddleware();
 
 // export const config = {
-//   matcher: ['/((?!.*\\..*|_next).*)', '/', '/(api|trpc)(.*)'],
+//   matcher: ["/((?!.*\\..*|_next).*)", "/", "/(api|trpc)(.*)"],
 // };
