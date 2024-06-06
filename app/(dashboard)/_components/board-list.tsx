@@ -35,6 +35,11 @@ export const BoardList = ({ orgId, query }: BoardListProps) => {
           <BoardCard.Skeleton />
           <BoardCard.Skeleton />
           <BoardCard.Skeleton />
+          <BoardCard.Skeleton />
+          <BoardCard.Skeleton />
+          <BoardCard.Skeleton />
+          <BoardCard.Skeleton />
+          <BoardCard.Skeleton />
         </div>
       </div>
     );
