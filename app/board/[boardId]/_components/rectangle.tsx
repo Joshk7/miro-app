@@ -16,10 +16,10 @@ export const Rectangle = ({
 }: RectangleProps) => {
   const { x, y, width, height, fill } = layer;
 
-  console.log({
-    id,
-    layer,
-  });
+//   console.log({
+//     id,
+//     layer,
+//   });
 
   return (
     <rect

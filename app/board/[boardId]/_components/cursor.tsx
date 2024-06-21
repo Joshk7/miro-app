@@ -17,7 +17,7 @@ export const Cursor = memo(({ connectionId }: CursorProps) => {
 
   const name = info?.name || "Anonymous";
 
-  console.log(info, cursor);
+//   console.log(info, cursor);
 
   if (!cursor) {
     return null;
